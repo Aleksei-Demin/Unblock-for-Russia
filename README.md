@@ -1,2 +1,2 @@
 # no-russia-myhosts
-Based on by https://github.com/dartraiden/no-russia-hosts
+Список доменов, владельцы которых ограничивают доступ с российских IP-адресов. Основан на https://github.com/dartraiden/no-russia-hosts

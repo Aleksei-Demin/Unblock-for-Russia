@@ -1,0 +1,1 @@
+sing-box rule-set compile unlock_for_Russia.json

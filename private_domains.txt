@@ -50,6 +50,11 @@ pornhub.com
 proactivebackend-pa.googleapis.com
 typekit.com
 typekit.net
+twimg.com
+twitter.com
+tweetdeck.com
+t.co
+x.com
 unpkg.com
 update.googleapis.com
 vk.com

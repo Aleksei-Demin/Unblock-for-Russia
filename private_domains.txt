@@ -1,3 +1,5 @@
+2ip.io
+2ip.ru
 4pda.to
 adobe-identity.com
 adobe-services.com
@@ -37,6 +39,8 @@ developerprofiles-pa.googleapis.com
 ftcdn.net
 gemini.google.com
 generativelanguage.googleapis.com
+ifconfig.me
+ifconfig.co
 habr.com
 habrastorage.org
 krea.ai

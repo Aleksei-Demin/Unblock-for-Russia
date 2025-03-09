@@ -1,5 +1,3 @@
-2ip.io
-2ip.ru
 4pda.to
 adobe-identity.com
 adobe-services.com
@@ -59,3 +57,4 @@ windowsupdate.com
 www.googleapis.com
 *.amazonaws.com
 *.google
+*.ua

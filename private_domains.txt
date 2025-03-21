@@ -44,6 +44,7 @@ ifconfig.co
 habr.com
 habrastorage.org
 krea.ai
+lookerstudio.google.com
 microsoft.com
 notebooklm.google.com
 oaistatic.com
